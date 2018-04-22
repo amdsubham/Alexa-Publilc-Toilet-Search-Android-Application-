@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963587424286",
+    "firebase_url": "https://alexaandroid-master.firebaseio.com",
+    "project_id": "alexaandroid-master",
+    "storage_bucket": "alexaandroid-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963587424286:android:a55a32cf256b9177",
+        "android_client_info": {
+          "package_name": "com.amazon.alexa.avs.companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963587424286-7k3omvae4bnsekrm4bd4splrjmoblgbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amazon.alexa.avs.companion",
+            "certificate_hash": "5e0ac4221e4c0da6b1bd5c1970645b13b47f6f14"
+          }
+        },
+        {
+          "client_id": "963587424286-0nc1t1j7qbph99db2obv52bvc01l9tvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBouIXHOkmeNdeg31dMEdB-qDtZNgwQYQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963587424286-0nc1t1j7qbph99db2obv52bvc01l9tvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
